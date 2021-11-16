@@ -1,2 +1,2 @@
 # Side-Project-Guitar-Villain
-Guitar ~~hero~~ villain that guide the guitar tab!
+Guitar ~~hero~~ villain that guides you the guitar tab!
